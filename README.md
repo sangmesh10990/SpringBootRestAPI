@@ -11,6 +11,7 @@ password : password
 
 #you can change this api credentils by editing properties file in resource folder of project : ExchangeRateAPI\SpringBootRestAPI\src\main\resources\application.properties
 #Credentilas for Accessing API
+
 api.username=username
 api.password=password
 
