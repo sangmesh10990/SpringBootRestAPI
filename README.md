@@ -15,7 +15,7 @@ password : password
 api.username=username
 api.password=password
 
-Use properties file to set Currency for current and historical foreign exchange rates.
+Use properties file to set Currency for which you need to check current and historical foreign exchange rates.
 
 #No of month need to check past data
 past.requiredMonth=6
